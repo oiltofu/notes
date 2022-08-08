@@ -1,6 +1,15 @@
 export default {
   lang: 'zh-CN',
-  title: '飞驰',
+  title: 'Durain',
   description: 'oiltofu的笔记。',
-  base: '/notes/'
+  base: '/notes/',
+  themeConfig: {
+    sidebar: [
+      {
+        items: [
+          { text: 'git', link: '/git' },
+        ]
+      },
+    ]
+  }
 }
