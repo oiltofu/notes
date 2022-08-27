@@ -1,4 +1,4 @@
 # Hello VitePress Notes
 
-## Fuck main
+## stupid main
 No snowflake in an avalanche ever feels responsible

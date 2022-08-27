@@ -1,4 +1,4 @@
-# git常用命令
+# 常用命令
 
 ```bash
 gpr // git pull --rebase
